@@ -32,4 +32,4 @@ App Service,<br>
 Azure Service Health,<br>
 
 
-<b><u>Project Demo URL:</u></b> https://vkg02283.github.io/Azure-Maps-Data-Manager-Web-App/
+<b><u>Project Demo URL:</u></b> https://delightful-beach-048642b10.azurestaticapps.net
