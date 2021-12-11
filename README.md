@@ -28,13 +28,8 @@ Azure Maps,<br>
 Microsoft Azure portal,<br>
 
 <b><u>Other Azure Technologies:</u></b><br>
-Azure Portal,<br>
 App Service,<br>
-API Resource Manager,<br>
-Integration,<br>
-App Configuration,<br>
-Application gateway,<br>
-API Apps,<br>
-Web Apps,<br><br>
+Azure Service Health,<br>
+
 
 <b><u>Project Demo URL:</u></b> https://vkg02283.github.io/Azure-Maps-Data-Manager-Web-App/
